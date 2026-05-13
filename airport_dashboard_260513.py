@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 import streamlit as st
 
 
-DATA_PATH = Path(r"C:\Users\DDATM\OneDrive\DLstudy\Python\analysis\IOC_event_23-25.xlsx")
+DATA_PATH = Path("IOC_event_23-25.xlsx")
 
 YEAR_COLOR = {"2023": "#378ADD", "2024": "#1D9E75", "2025": "#BA7517"}
 PALETTE = ["#378ADD", "#EF9F27", "#1D9E75", "#E24B4A", "#7F77DD", "#D85A30", "#888780", "#D4537E"]
